@@ -1,4 +1,4 @@
-package com.soham.day2;
+package com.day2;
 
 public class Customer {
 	private int customerId;

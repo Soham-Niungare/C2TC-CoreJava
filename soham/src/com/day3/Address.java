@@ -1,4 +1,4 @@
-package com.soham.day3;
+package com.day3;
 
 public class Address {
 	private String street;

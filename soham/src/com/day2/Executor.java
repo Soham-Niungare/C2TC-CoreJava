@@ -1,4 +1,4 @@
-package com.soham.day2;
+package com.day2;
 import java.util.*;
 
 public class Executor {
@@ -16,7 +16,7 @@ public class Executor {
 		System.out.println("Enter Customer City: ");	
 		String city = sc.nextLine();
 		
-//		sc.close();
+		sc.close();
 //		Customer obj1 = new Customer();
 //		obj1.setCustomerId(id);
 //		obj1.setCustomerName(name);
