@@ -6,8 +6,8 @@ public class AbstractDemo {
 		s.calculateArea();
 		s.display();
 		
-		
-		
-		
+		Circle c = new Circle(5);
+		c.calculateArea();
+		c.display();
 	}
 }
