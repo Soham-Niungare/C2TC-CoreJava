@@ -1,7 +1,6 @@
 package com.day6;
 
 public class StringAssignment {
-
 	public static void main(String[] args) {
 		String a = new String("Soham");
 		String b = "Niungare";

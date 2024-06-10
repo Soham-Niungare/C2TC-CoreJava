@@ -18,7 +18,7 @@ public class Matrix {
 		}
 		for (int[] x1 : x) {
 			for (int x2 : x1) {
-				System.out.print(x[2] + " ");
+				System.out.print(x2 + " ");
 			}
 			System.out.println();
 		}

@@ -1,4 +1,4 @@
-package com.day5;
+package com.day4;
 /*
  * Flow control : Transfer statement
  * break statement
