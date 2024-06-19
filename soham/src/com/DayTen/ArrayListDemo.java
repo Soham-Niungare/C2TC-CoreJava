@@ -29,5 +29,7 @@ public class ArrayListDemo {
 		heroName.add("BatMan");
 		heroName.add("SuperMan");
 //		heroName.add(123);
+		
+		heroName.forEach(System.out::println);
 	}
 }
